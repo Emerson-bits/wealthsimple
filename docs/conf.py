@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'HRblock Taxcenter'
+project = 'Docs HR Block Soft'
 copyright = '2025'
-author = 'Darlyne Chauve'
+author = 'Robert Alquilar'
 
 release = '1.0'
 
