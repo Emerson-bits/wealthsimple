@@ -3,7 +3,7 @@ Smart — How to Log In to Your Wealthsimple Tax Return Account Canada Profile a
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://knowledgemask.com/wealthsimple-login/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Wealthsimple</a>
+       <a href="https://mywealthsimple.github.io" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Login Wealthsimple Account</a>
    </div>
 
 Managing your taxes online has become easier than ever, thanks to modern platforms that simplify the entire process. If you are looking for a smooth and secure way to handle your finances, understanding the wealthsimple tax login my account process is essential. Whether you are a first-time user or returning to complete your filing, knowing how to use wealthsimple login Canada ensures quick access to your dashboard. Many users rely on the wealth simple tax return system for accurate and hassle-free tax submission. When you Log in to your Wealthsimple profile, you gain full control over your tax data, documents, and filing progress. By mastering the wealthsimple tax login my account steps, you can confidently manage your account and complete your taxes without stress.
